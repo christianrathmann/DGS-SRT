@@ -16,5 +16,4 @@ We welcome feedback and contributions to improve the accuracy and usability of t
 # Citation: 
 If you use the DGS-SRT in your research, we'd appreciate if you cite as follows: 
 
-Rathmann, C., Villwock, A., Kubus, O., Durczok, B., & Grin, K. (2025). German Sign Language Sentence Reproduction Test (DGS-SRT). https://github.com/christianrathmann/DGS-SRT?tab=readme-ov-file#dgs-srt 
-![image](https://github.com/user-attachments/assets/aaf9f065-3aa1-4ef2-8497-1db2f21f6e63)
+Rathmann, C., Villwock, A., Kubus, O., Durczok, B., & Grin, K. (2025). German Sign Language Sentence Reproduction Test (DGS-SRT). https://github.com/christianrathmann/DGS-SRT 
