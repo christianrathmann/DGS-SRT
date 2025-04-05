@@ -2,13 +2,13 @@ This repository contains materials related to the DGS-SRT (German Sign Language 
 
 # The project includes:
 
-•	A video with a set of DGS sentences
+•	A link to a video with a set of DGS sentences (DGS-SRT Video)
 
-•	A sheet with translated sentences into German
+•	A sheet with translated sentences into German (DGS-SRT Übersetzungen)
 
-•	An evaluation sheet
+•	An evaluation sheet (DGS-SRT_Auswertungsbogen)
 
-•	An assessment guide
+•	An assessment guide (DGS-SRT_Bewertungsrichtlinien)
 
 # Contributions & Feedback: 
 We welcome feedback and contributions to improve the accuracy and usability of this resource.
